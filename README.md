@@ -1,2 +1,2 @@
-# Azure_Project
-End to End Project
+# Azure_Synapse
+Tutorial
