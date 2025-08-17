@@ -1,2 +1,3 @@
-# Azure_Synapse
-Tutorial
+PySpark and Databricks: Amazon Prime Data Analysis
+
+A tutorial on performing business analysis using an Amazon Prime movies and TV shows dataset within the Databricks platform. It guides through the entire process, beginning with setting up a compute cluster and ingesting the dataset. The tutorial then covers crucial steps like data cleaning to handle missing values and duplicates, data transformation to enrich the dataset with new insights (such as identifying movies vs. TV shows), and exploratory data analysis to uncover trends in content distribution and production. Finally, it touches on advanced analytics using window functions for content ranking and exporting the processed data to different formats like Delta and CSV, concluding with strategic business recommendations derived from the analysis.
